@@ -1,8 +1,4 @@
 # ds-repository
-#### Project made for the "Responsive Web Design" module in freeCodeCamp
----
-
-A portfolio showing most of the projects I made to get the Full-Stack Developer certificate at freeCodeCamp.
 
 #### Screenshot
 
