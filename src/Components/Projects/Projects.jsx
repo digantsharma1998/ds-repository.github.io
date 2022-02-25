@@ -30,7 +30,7 @@ const Projects = props => {
             title="TicTacToe Game."
             img={TicTacToeImg}
             tech="js react css"
-            link="https://codepen.io/yagoestevez/full/KRevzB/"
+            link="https://codepen.io/digantsharma1998/pen/dyZqGRQ"
             repo="https://github.com/digantsharma1998/TicTacToe/"
           >
             <small>Built using React, CSS and SVG.</small>
