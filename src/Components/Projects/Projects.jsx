@@ -2,6 +2,7 @@ import React from 'react';
 import Project from './Project';
 import './Projects.css';
 import CalculatorImg from './Images/Calculator.jpg';
+import TicTacToeImg from './Images/TicTacToe.jpg';
 
 const Projects = props => {
   return (
@@ -24,6 +25,18 @@ const Projects = props => {
           >
             <small>Built using React and CSS.</small>
             <p>A project on which I built a virtual calculator with its usual features.</p>
+          </Project>
+          <Project
+            title="TicTacToe Game."
+            img={TicTacToeImg}
+            tech="js react css"
+            link="https://codepen.io/yagoestevez/full/KRevzB/"
+            repo="https://github.com/digantsharma1998/TicTacToe/"
+          >
+            <small>Built using React, CSS and SVG.</small>
+            <p>
+              A TicTacToe game with a basic AI algorithm made for the legacy front-end projects.
+            </p>
           </Project>
         </div>
       </div>
