@@ -6,7 +6,7 @@ A portfolio showing most of the projects I made to get the Full-Stack Developer 
 
 #### Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.jpg)
 
 #### Try it out!
 
