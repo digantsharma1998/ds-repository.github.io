@@ -13,7 +13,7 @@ const About = props => {
           <div className="desc full">
             <h4 className="subtitle">My name is Digant Sharma.</h4>
             <p>
-              I am a web developer and UX designer based in the India at the north of beautiful Asia.
+              I am a MERN stack web developer and designer based in the middle of India at the north of beautiful Asia.
             </p>
             <p>
               I really enjoy solving problems as well as making things pretty and easy to use. I
