@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dab94bfb.css",
+    "main.js": "/static/js/main.5c189a9f.js",
+    "static/media/Author_BG.jpg": "/static/media/Author_BG.3f06b0bdf61b9d45e0d1.jpg",
+    "static/media/TicTacToe.jpg": "/static/media/TicTacToe.3f63cc5e462eac516e8d.jpg",
+    "static/media/Calculator.jpg": "/static/media/Calculator.7a45271e722771a63df8.jpg",
+    "static/media/Stars.svg": "/static/media/Stars.8a0c1e35dbdee9d1871f.svg",
+    "static/media/Trees.svg": "/static/media/Trees.6947010d7683924c2b24.svg",
+    "static/media/Silhouette.svg": "/static/media/Silhouette.94098b6d48b79ae2a99d.svg",
+    "static/media/Moon.svg": "/static/media/Moon.b4f3fe5b459b519cfdb9.svg",
+    "index.html": "/index.html",
+    "static/media/envelope.svg": "/static/media/envelope.2da9f9f0571e695cc384.svg",
+    "main.dab94bfb.css.map": "/static/css/main.dab94bfb.css.map",
+    "main.5c189a9f.js.map": "/static/js/main.5c189a9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab94bfb.css",
+    "static/js/main.5c189a9f.js"
+  ]
+}
