@@ -49,6 +49,13 @@ const SocialLinks = props => {
         {' '}
         <i className="fab fa-codepen" />
       </a>
+      <a
+        href="https://leetcode.com/DigantSharma/"
+        target="_blank"
+        rel="noopener noreferrer"
+        titile="Link to author's Leetcode profile"
+      >
+      </a>
     </div>
   );
 };
